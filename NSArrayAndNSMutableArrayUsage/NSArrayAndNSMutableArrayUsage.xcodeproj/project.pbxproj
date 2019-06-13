@@ -12,7 +12,6 @@
 		4CFB9BEC22B1E63800129F3E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CFB9BEA22B1E63800129F3E /* LaunchScreen.storyboard */; };
 		4CFB9BEF22B1E63800129F3E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CFB9BEE22B1E63800129F3E /* main.m */; };
 		4CFB9BF822B1E88600129F3E /* NSArrayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CFB9BF722B1E88600129F3E /* NSArrayViewController.m */; };
-		4CFB9BFE22B2373600129F3E /* Sort.m in Sources */ = {isa = PBXBuildFile; fileRef = 4CFB9BFD22B2373600129F3E /* Sort.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,8 +24,6 @@
 		4CFB9BEE22B1E63800129F3E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		4CFB9BF622B1E88600129F3E /* NSArrayViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NSArrayViewController.h; sourceTree = "<group>"; };
 		4CFB9BF722B1E88600129F3E /* NSArrayViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NSArrayViewController.m; sourceTree = "<group>"; };
-		4CFB9BFC22B2373600129F3E /* Sort.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Sort.h; sourceTree = "<group>"; };
-		4CFB9BFD22B2373600129F3E /* Sort.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Sort.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,8 +72,6 @@
 			children = (
 				4CFB9BF622B1E88600129F3E /* NSArrayViewController.h */,
 				4CFB9BF722B1E88600129F3E /* NSArrayViewController.m */,
-				4CFB9BFC22B2373600129F3E /* Sort.h */,
-				4CFB9BFD22B2373600129F3E /* Sort.m */,
 			);
 			name = CustomerNSArray;
 			path = NSArrayAndNSMutableArrayUsage/CustomerNSArray;
@@ -152,7 +147,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				4CFB9BF822B1E88600129F3E /* NSArrayViewController.m in Sources */,
-				4CFB9BFE22B2373600129F3E /* Sort.m in Sources */,
 				4CFB9BEF22B1E63800129F3E /* main.m in Sources */,
 				4CFB9BE122B1E63500129F3E /* AppDelegate.m in Sources */,
 			);
